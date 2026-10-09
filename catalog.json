@@ -1,13 +1,13 @@
 {
   "title": "Neurophysiology Control Lab",
-  "subtitle": "SNA, eje HPA y experiencia subjetiva · comparador A/B contra reposo · v1.1",
+  "subtitle": "SNA, eje HPA y experiencia subjetiva · comparador A/B contra reposo · monitor ECG y órganos diana · v1.2",
   "type": "simulador",
   "themes": ["fisiologia", "regulacion"],
   "status": "publicada",
   "pwa": false,
   "deeplink": "hash",
   "sections": [
-    { "id": "app",     "title": "Simulador y comparador lado a lado", "keywords": ["amenaza aguda", "dolor agudo", "ejercicio moderado", "respiración lenta", "recuperación", "reposo", "banda de referencia", "privación de sueño", "cortisol", "adrenalina", "noradrenalina", "crh", "acth", "simpático", "vagal", "barorreflejo", "hrv", "rmssd", "sdnn", "frecuencia cardíaca", "presión arterial", "conductancia", "pupila", "amenaza percibida", "pico", "tiempo al pico", "retorno", "carga"] },
+    { "id": "app",     "title": "Simulador y comparador lado a lado", "keywords": ["amenaza aguda", "dolor agudo", "ejercicio moderado", "respiración lenta", "recuperación", "reposo", "banda de referencia", "privación de sueño", "cortisol", "adrenalina", "noradrenalina", "crh", "acth", "simpático", "vagal", "barorreflejo", "hrv", "rmssd", "sdnn", "frecuencia cardíaca", "presión arterial", "conductancia", "pupila", "amenaza percibida", "pico", "tiempo al pico", "retorno", "carga", "ecg", "monitor", "órganos diana", "midriasis", "broncodilatación", "glucogenólisis", "vejiga", "motilidad digestiva"] },
     { "id": "science", "title": "Fundamento científico y alcance", "keywords": ["evidencia", "referencias", "tsst", "kirschbaum", "task force hrv", "joseph", "sakakibara", "hill", "acc/aha", "límites del modelo", "constantes de tiempo", "modelo simplificado", "dato sintético"] }
   ]
 }

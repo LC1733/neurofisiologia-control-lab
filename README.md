@@ -9,5 +9,6 @@ Simulador educativo, en un solo archivo HTML sin dependencias, de la respuesta a
 - `catalog.json` describe la app para el hub (convención nivel B: el hub lo lee y sobrescribe su entrada central).
 
 ## Versiones
+- **1.2** — monitor ECG sintético A/B en tiempo real (reloj del navegador, independiente de FPS; RR con oscilación respiratoria según tono vagal; QT con corrección de Bazett), mapa de órganos diana A/B con dirección del efecto (simpático, vagal, cortisol) y su base fisiológica, estado activo/en reposo/atenuado en las vías SAM y HPA. Incorpora las piezas útiles de la consola "SYS_NEURO" sin sus valores absolutos de cortisol.
 - **1.1** — comparador A/B con dos gráficos sincronizados, traza de reposo y banda de referencia, tabla de índices (pico, t pico, retorno, carga), privación de sueño como modificador, rangos poblacionales de FC/PA/respiración en el detalle de cada tarjeta, corrección del eje Y en "Órganos", tarjetas sin re-render por tick.
 - **1.0** — versión inicial.
